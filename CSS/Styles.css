@@ -1,0 +1,25 @@
+body {
+  background-Color:#eaf6f6;
+}
+hr{
+
+  border-style: dotted none none;
+  border-color: Grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #66bfbf;
+}
+h3{
+  color: #66bfbf;
+}
+img:hover{
+  background-color: gold;
+}
+
+/* Classes */
+
+.circular{
+  border-radius: 100%;
+}
